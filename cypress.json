@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://vue-hn.herokuapp.com",
+  "blacklistHosts": "*google-analytics.com",
+  "video": true,
+  "projectId": "jh1635"
+}
